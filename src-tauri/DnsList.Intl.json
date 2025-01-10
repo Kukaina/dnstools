@@ -1,0 +1,74 @@
+{
+    "list": [
+        {
+            "name": "Google",
+            "IP": "8.8.8.8",
+            "delay": "未测量"
+        },
+        {
+            "name": "Google",
+            "IP": "8.8.4.4",
+            "delay": "未测量"
+        },
+        {
+            "name": "Cloudflare",
+            "IP": "1.1.1.1",
+            "delay": "未测量"
+        },
+        {
+            "name": "Cloudflare",
+            "IP": "1.0.0.1",
+            "delay": "未测量"
+        },
+        {
+            "name": "G-core",
+            "IP": "95.85.95.85",
+            "delay": "未测量"
+        },
+        {
+            "name": "G-core",
+            "IP": "2.56.220.2",
+            "delay": "未测量"
+        },
+        {
+            "name": "Yandex",
+            "IP": "77.88.8.8",
+            "delay": "未测量"
+        },
+        {
+            "name": "Yandex",
+            "IP": "77.88.8.1",
+            "delay": "未测量"
+        },
+        {
+            "name": "Quad9",
+            "IP": "9.9.9.9",
+            "delay": "未测量"
+        },
+        {
+            "name": "Quad9",
+            "IP": "9.9.9.10",
+            "delay": "未测量"
+        },
+        {
+            "name": "OpenDNS",
+            "IP": "208.67.222.222",
+            "delay": "未测量"
+        },
+        {
+            "name": "OpenDNS",
+            "IP": "208.67.220.220",
+            "delay": "未测量"
+        },
+        {
+            "name": "OpenDNS",
+            "IP": "208.67.222.220",
+            "delay": "未测量"
+        },
+        {
+            "name": "OpenDNS",
+            "IP": "208.67.220.222",
+            "delay": "未测量"
+        }
+    ]
+}
